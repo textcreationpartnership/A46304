@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A journal of all that happen'd in the march of the Vaudois till their arrival in the valleys of St. Martin and Lusern written from Lausanne the 19th of September 1689 to an eminent merchant in London, with the number of those that passed the lake to joyn them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46304</idno>
+            <idno type="STC">Wing J1096</idno>
+            <idno type="STC">ESTC R17383</idno>
+            <idno type="EEBO-CITATION">11861914</idno>
+            <idno type="OCLC">ocm 11861914</idno>
+            <idno type="VID">50026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50026)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A journal of all that happen'd in the march of the Vaudois till their arrival in the valleys of St. Martin and Lusern written from Lausanne the 19th of September 1689 to an eminent merchant in London, with the number of those that passed the lake to joyn them.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ben. Griffin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waldenses --  France.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50026:1" rendition="simple:additions"/>
+            <head>A JOURNAL Of all that happen'd in the MARCH of the VAUDOIS Till their Arrival in the Valleys of St. <hi>Martin</hi> and <hi>Luſern;</hi> Written from <hi>Lauſanne</hi> the 19th. of <hi>September</hi> 1689. to an Eminent Merchant in <hi>London,</hi> with the Number of thoſe that paſs'd the Lake to joyn them.</head>
+            <head type="sub">LICENS'D <hi>September</hi> 27th. 1689. <hi>J. F.</hi>
+            </head>
+            <p>THE <hi>Vaudois</hi> to the number which I mention'd in the laſt that I ſent you, ſet forward from this City about fifteen days ſince; with a Reſolution to go into the Valleys of <hi>Piemont,</hi> diſtant from hence about five and thirty Leagues. I was one of thoſe that deſir'd one of the Magiſtrates of this place, to let them have the conveniency of Boats, for that Monſieur the Bailiff had forbid the people here to fur<g ref="char:EOLhyphen"/>niſh them with any, tho' under hand he was willing enough they ſhould have them, as being one that wiſh'd well to the common Cauſe, however he is forced to obſerve ſome little meaſures and punctillio's by reaſon of the Neutrality: But at length I engag'd Monſieur <hi>le Bourſie</hi> one of the Judges to go to the Fort at two of the Clock at Night, whither I accompanied him, and obtain'd permiſſion, that the <hi>Vaudois</hi> might be fur<g ref="char:EOLhyphen"/>niſhd with Boats: We alſo aſſiſted them with all ſuch other neceſſaries as lay in our power. They had an extraordinory good paſſage over the Lake; and as they march'd forward, they ſeiz'd upon the Prieſts and Lords of the Villages through which they paſs'd. But finding by that time they had gone two days march, that there was a Bridge broken down to impede their paſſing farther; they threatened their Priſoners to put them to death, if they did not take care to have the Bridge repair'd; ſo that the Country people that liv'd on the other ſide were forc'd to repair the Bridge, which the <hi>Vaudois</hi> paſs'd in good Order.</p>
+            <p>The Duke of <hi>Savoy</hi> having intelligence of their March, rais'd the Militia of his own Country, and ſent away a Courier to the Marqueſs <hi>de Larre</hi> Collonel of Dragoons, and Commander of the Forces in the Dauphinate, to ſtop the farther progreſs of the <hi>Vaudois,</hi> who were then upon the Frontiers. Thither therefore he haſten'd with four Troops of Dragoons, whom he caus'd to break down a Bridge, and Entrench'd the Militia of <hi>Savoy</hi> in the ſame place to diſpute the paſſage. But the <hi>Vaudois</hi> upon the firſt diſcharge which they made, kill'd the Commander of the Savoyards, who was a Marquiſs alſo, with ſeveral others, which put the reſt into ſuch a Terrour that they abandon'd the Paſs. Here the <hi>Vaudois</hi> loſt a Miniſter and four Souldiers, whom the Enemy carried bound to <hi>Chamberg,</hi> and there hang'd them up.</p>
+            <p>Afterwards Monſieur <hi>Larre</hi> meeting them with four Troops of Dragoons, ask'd them whither they were going; they Anſwer'd they were going to their own homes; by whoſe Order? To whom? Their Miniſter Mr. <hi>Arnauld</hi> who has appear'd all along at the Head of them; Replied, by Order of the <hi>King of</hi> England, William <hi>the Third.</hi> Upon which the Commander told 'em, that they were a Company of Vagabond Raſ<g ref="char:EOLhyphen"/>cals, and that he would trample them to death under his Horſes Feet, and ſo Com<g ref="char:EOLhyphen"/>manded his Dragoons to ride up to them, which Mr. <hi>Arnauld</hi> ſeeing, prepar'd his peo<g ref="char:EOLhyphen"/>ple
+<pb facs="tcp:50026:2"/>to receive them accordingly, which they did; and after a Fight that laſted two Hours, they won the Victory, having kill'd a hundred and fifty of the Dragoons, and two Captains, befides ſive or ſix more Inferiour Officers kill'd and wounded; and Mr. <hi>de Larré</hi> wounded in the Elbow of which he is ſince dead: Of the <hi>Vaudois</hi> not above fifteen or twenty kill'd and wounded.</p>
+            <p>Thus they enter'd into the Valleys of of <hi>Pregolas</hi> which are under the Dominion of <hi>France,</hi> where about two hundred of the Inhabitants of the ſaid Valleys joyn'd them. In their March they pillag'd the Abby of <hi>Ouls</hi> in the French Territory; where they found 180000 Livres, or 15000 <hi>l.</hi> Engliſh, and twenty four Monks, whom they carried along with them as Hoſtages. They alſo took upon the Moun<g ref="char:EOLhyphen"/>tains above twenty Thouſand Sheep. At the ſame time they met the Baggage be<g ref="char:EOLhyphen"/>longing to the Popes Nuncio, returning from <hi>Paris</hi> to <hi>Rome.</hi> They open'd the Packs, and took out all the Plate, but meddl'd with nothing elſe; but beſides all this Booty, they found the Valleys of St. <hi>Martins</hi> and <hi>Luſern,</hi> where they are now Arriv'd, well ſtor'd with Corn, which makes us believe they will find it a difficult thing to make them diſlodge from thence, having expell'd the <hi>Savoyards</hi> that liv'd in the Vale to the very tops of all the Mountains. All <hi>Savoy</hi> is in Arms, to prevent thoſe that have taken Sanctuary in <hi>Switzerland,</hi> from going to their Aſſiſtance, as it is believ'd they will do; the <hi>Switzers</hi> not at all oppoſing the Levies which they make in thoſe parts.</p>
+            <p>The Duke of <hi>Savoy</hi> has Written a very ſevere Letter to the <hi>Switzers</hi> upon this oc<g ref="char:EOLhyphen"/>caſion, which they have taken very ill, no leſs offended that he had broken his word with them, in not reſtoring to them the Miniſters and Children of the <hi>Vandois.</hi> The Canton of <hi>Oury,</hi> which is a popiſh Canton, has deliver'd up a hundred and five of thoſe poor people to the Embaſſador of <hi>Savoy,</hi> after they had robb'd them of all their Cloaths and mony, and put four of them to the Rack, to make them diſcover the de<g ref="char:EOLhyphen"/>ſigns of the reſt of their Brethren, but they would not confeſs any thing. The Em<g ref="char:EOLhyphen"/>baſſador has caus'd them to be tied two and two together, and ſent them away into <hi>Savoy,</hi> for fear that the Lords of <hi>Zurie</hi> and of <hi>Berne</hi> ſhould redemand them, which they did; to whom the popiſh Cantons return'd for Anſwer, that they had de<g ref="char:EOLhyphen"/>liver'd them up already, but with this condition, that no harm ſhould be done them; which very much diſpleas'd the Lords of <hi>Zurie</hi> and <hi>Berne;</hi> inſomuch that it proved the occaſion of a Rupture between them.</p>
+            <p>There are already departed above 1500 Men to joyn thoſe that are March'd before; in order to which they have paſs'd the Lake, and two Thouſand more are ready to Embark, with a reſolution to follow them. They are all French that fled for Refuge, except four hundred <hi>Vaudois,</hi> who came hither as ſoon as they underſtood the depar<g ref="char:EOLhyphen"/>ture of the reſt, And had not Mounfieur the Bailiff forbid the Switzers, upon pain of death, not to ſtir out of the State, there would have gone above two thouſand. How<g ref="char:EOLhyphen"/>ever this has not hindred a very conſiderable number from going, finding the <hi>Vaudois</hi> ſo ſucceſsful in their Enterprizes.</p>
+            <p>It is hoped, that the King of <hi>England</hi> will prevail with the King of <hi>Spain</hi> to declare war againſt the Duke of <hi>Savoy;</hi> to the end the <hi>Milainois</hi> Governors may be ordered to furniſh them with all ſuch neceſſaries which they ſhall ſtand in need of. For other<g ref="char:EOLhyphen"/>wiſe, it will be a difficult thing for theſe poor people to preſerve what they have got. The King of <hi>France</hi> having order'd the forces of of the <hi>Dauphinate</hi> to march, to expel them from thoſe places where a little Aſſiſtance would defend them from all the force of their Enemies. The Embaſſador of <hi>France</hi> at <hi>Geneva</hi> makes a great noiſe and ſpeaks loud upon this occaſion. We expect with impatience the reſult of the Conſultations of the <hi>Aſſembly</hi> at <hi>Baden. Savoy</hi> is all in Arms, and the people are ſtrangely alarm'd, at ſo many Commotions. The French Troops are quartered round about <hi>Geneva:</hi> How<g ref="char:EOLhyphen"/>ever as yet all things are quiet: In expectation of more News I remain, <hi>YO<g ref="char:V">Ʋ</g>RS,</hi> &amp;c</p>
+            <p>We thought it not from the purpoſe to gratifie the Curiofity of the Reader to add this Century of <hi>Noſtre Damus</hi> in regard it agrees ſo well and falls out ſo pat to the Con<g ref="char:EOLhyphen"/>dition of <hi>France</hi> at this time.</p>
+            <lg>
+               <l>
+                  <hi>When ere the Creſcent ſhall decreaſe,</hi>
+               </l>
+               <l>
+                  <hi>An Eagle ſhall the mighty Cock deplume,</hi>
+               </l>
+               <l>
+                  <hi>In Sixteen hundred Eighty Nine</hi>
+               </l>
+               <l>
+                  <hi>Great Changes then by death ſhall come.</hi>
+               </l>
+               <l>
+                  <hi>The ſame Fate ſhall two Kings attend,</hi>
+               </l>
+               <l>
+                  <hi>Good Cheeſe to</hi> Calvin <hi>and his Friend.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ben. Griffin</hi> in the <hi>Great Old Baily,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
